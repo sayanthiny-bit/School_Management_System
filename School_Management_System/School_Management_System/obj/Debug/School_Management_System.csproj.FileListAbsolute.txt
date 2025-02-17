@@ -1,0 +1,17 @@
+C:\Users\Asus\Desktop\Project\School_Management_System\School_Management_System\bin\Debug\School_Management_System.exe.config
+C:\Users\Asus\Desktop\Project\School_Management_System\School_Management_System\bin\Debug\School_Management_System.exe
+C:\Users\Asus\Desktop\Project\School_Management_System\School_Management_System\bin\Debug\School_Management_System.pdb
+C:\Users\Asus\Desktop\Project\School_Management_System\School_Management_System\obj\Debug\School_Management_System.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Project\School_Management_System\School_Management_System\obj\Debug\School_Management_System.Form1.resources
+C:\Users\Asus\Desktop\Project\School_Management_System\School_Management_System\obj\Debug\School_Management_System.Properties.Resources.resources
+C:\Users\Asus\Desktop\Project\School_Management_System\School_Management_System\obj\Debug\School_Management_System.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Project\School_Management_System\School_Management_System\obj\Debug\School_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Project\School_Management_System\School_Management_System\obj\Debug\School_Management_System.exe
+C:\Users\Asus\Desktop\Project\School_Management_System\School_Management_System\obj\Debug\School_Management_System.pdb
+C:\Users\Asus\Desktop\Project\School_Management_System\School_Management_System\obj\Debug\School_Management_System.Loginform.resources
+C:\Users\Asus\Desktop\Project\School_Management_System\School_Management_System\obj\Debug\School_Management_System.MainForm.resources
+C:\Users\Asus\Desktop\Project\School_Management_System\School_Management_System\obj\Debug\School_Management_System.DashbordForm.resources
+C:\Users\Asus\Desktop\Project\School_Management_System\School_Management_System\obj\Debug\School_Management_System.AddStudentForm.resources
+C:\Users\Asus\Desktop\Project\School_Management_System\School_Management_System\obj\Debug\School_Management_System.AddStudentFrom.resources
+C:\Users\Asus\Desktop\Project\School_Management_System\School_Management_System\obj\Debug\School_Management_System.AddTeacherForm.resources
+C:\Users\Asus\Desktop\Project\School_Management_System\School_Management_System\obj\Debug\School_Management_System.TestDashbord.resources
